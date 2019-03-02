@@ -9,9 +9,7 @@ function happyHolidayTo(You, Mom) {
   return 'Happy Independence Day, you!'
 }
 function holidayCountdown() {
-  console.log('')
+  console.log('${days}')
   return(`It's ${3} days until ${holiday}!`)
 }
 
-
-returns "It's ${days} days until${holiday}!":
