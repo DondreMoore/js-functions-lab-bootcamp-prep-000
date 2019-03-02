@@ -11,6 +11,6 @@ function happyHolidayTo(You, Mom) {
 function holidayCountdown() {
   console.log('${days}')
   console.log('${holiday}')
-  return(`It's ${3} days until ${Independence Day}!`)
+  return(`It's ${3} days until ${holiday}!`)
 }
 
