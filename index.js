@@ -1,1 +1,1 @@
-function string 
+function 'happyHolidays'
