@@ -14,3 +14,4 @@ function holidayCountdown() {
 }
 
 
+returns "It's ${days} days until${holiday}!":
